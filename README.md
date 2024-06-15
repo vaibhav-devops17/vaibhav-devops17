@@ -1,10 +1,14 @@
-# Hi there, I'm Vaibhav 👋
+# Hi there, I'm Vaibhav Sarode 👋
+
+![Profile views](https://gpvc.arturio.dev/vaibhav-sarode17)
 
 I'm a **DevOps Engineer** with expertise in:
 
+## 🔧 Technologies & Tools
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![PCF](https://img.shields.io/badge/PCF-#003B49?style=flat-square&logo=pivotal&logoColor=white)
+![PCF](https://img.shields.io/badge/PCF-003B49?style=flat-square&logo=pivotal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -19,9 +23,27 @@ I'm a **DevOps Engineer** with expertise in:
 
 ## 📊 GitHub Stats
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-sarode17&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sarode17&layout=compact&theme=radical)
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-sarode17)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Your latest blog post title](https://yourbloglink.com)
+- [Another blog post title](https://yourbloglink.com)
+<!-- BLOG-POST-LIST:END -->
+
+## 📂 Featured Projects
+
+- [Project 1](https://github.com/your-github-username/project1): Brief description of Project 1.
+- [Project 2](https://github.com/your-github-username/project2): Brief description of Project 2.
+- [Project 3](https://github.com/your-github-username/project3): Brief description of Project 3.
+
+---
+
+⭐️ From [Vaibahv Sarode](https://github.com/vaibhav-sarode17)
