@@ -7,79 +7,20 @@ I'm a **DevOps Engineer** with expertise in:
 ## 🔧 Technologies & Tools
 
 
-### Cloud
-
-<p float="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="80" />
-  </a>  
-  <a href="https://pivotal.io/platform" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/pcf.gif" height="80" />
-  </a>
-</p>
-
-
-### CI/CD
-
-<p float="left">
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/jenkins.gif" height="80" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/ansible.gif" height="80" />
-  </a>
-</p>
-
-
-
-<p float="left">
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/kubernetes.gif" height="80" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="80" />
-  </a>
-</p>
-
-
-### SCM
-
-<p float="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/git.gif" height="80" />
-  </a>  
-  <a href="https://about.gitlab.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/gitlab.gif" height="80" />
-  </a>
-</p>
-
-
-### Databases and Monitoring
-
-<p float="left">
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
-  </a>
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />
-  </a>
-</p>
-
-
-### DevSecOps
-
-<p float="left">
- <a href="https://www.sonarqube.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/sonarqube.gif" height="80" />
-  </a>
-  <a href="https://snyk.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/snyk.gif" height="80" />
-  </a>
-</p>
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PCF](https://img.shields.io/badge/PCF-003B49?style=flat-square&logo=pivotal&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
 
 
 ## 📊 GitHub Stats
