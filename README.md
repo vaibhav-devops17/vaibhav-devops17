@@ -7,51 +7,80 @@ I'm a **DevOps Engineer** with expertise in:
 ## 🔧 Technologies & Tools
 
 
+### Cloud
 
 <p float="left">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" />
-  </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="80" />
-  </a>
+  </a>  
   <a href="https://pivotal.io/platform" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/pcf.gif" height="80" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/git.gif" height="80" />
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/jira.gif" height="80" />
-  </a>
+</p>
+
+
+### CI/CD
+
+<p float="left">
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/jenkins.gif" height="80" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80" />
   </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/ansible.gif" height="80" />
+  </a>
+</p>
+
+
+
+<p float="left">
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/kubernetes.gif" height="80" />
   </a>
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="80" />
   </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/ansible.gif" height="80" />
+</p>
+
+
+### SCM
+
+<p float="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/git.gif" height="80" />
+  </a>  
+  <a href="https://about.gitlab.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/gitlab.gif" height="80" />
   </a>
+</p>
+
+
+### Databases and Monitoring
+
+<p float="left">
   <a href="https://prometheus.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
   </a>
   <a href="https://grafana.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />
   </a>
-  <a href="https://www.sonarqube.org/" target="_blank">
+</p>
+
+
+### DevSecOps
+
+<p float="left">
+ <a href="https://www.sonarqube.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/sonarqube.gif" height="80" />
   </a>
   <a href="https://snyk.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/snyk.gif" height="80" />
   </a>
 </p>
+
+
 
 ## 📊 GitHub Stats
 
