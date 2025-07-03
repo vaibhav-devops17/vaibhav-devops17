@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Vaibhav Sarode
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhav-sarode17)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=DevOps+Engineer+%7C+Cloud+Ninja+%7C+Tool+Collector;Automating+all+the+things;Always+learning+something+new!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=480&lines=DevOps+Engineer+%7C+Always+learning;Always+deploying+%7C+Always+improving;Automation+is+my+art;Infrastructure+that+scales+%26+heals)
 
 I'm a **DevOps Engineer** passionate about building scalable infrastructure, automating workflows, and deploying secure, resilient systems. Whether it's CI/CD pipelines, container orchestration, or Infrastructure as Code, I love turning complex problems into elegant solutions.
 
@@ -9,7 +9,6 @@ I'm a **DevOps Engineer** passionate about building scalable infrastructure, aut
 
 ## ✨ Highlights  
 
-- 🛠 **Certifications**: AWS Certified Solutions Architect • Terraform Associate • Certified Kubernetes Administrator (CKA)  
 - 💻 **Learning Goals**: Exploring GitOps with ArgoCD, and diving deeper into Chaos Engineering and security automation.  
 - 🎯 **DevOps Philosophy**: *"Automate relentlessly, scale intentionally, and build systems that heal themselves."*
 
