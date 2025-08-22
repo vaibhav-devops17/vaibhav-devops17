@@ -1,6 +1,7 @@
 # Hi there, I'm Vaibhav Sarode 👋
 
-![Profile views](https://komarev.com/ghpvc/?vaibhav-devops17)
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhav-devops17&color=blue&style=flat-square)
+
 
 I'm a **DevOps Engineer** with expertise in:
 
