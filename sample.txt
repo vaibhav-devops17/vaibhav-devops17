@@ -1,6 +1,6 @@
 # Hi there, I'm Vaibhav Sarode 👋
 
-![Profile views](https://komarev.com/ghpvc/?vaibhav-sarode17)
+![Profile views](https://komarev.com/ghpvc/?vaibhav-devops17)
 
 I'm a **DevOps Engineer** with expertise in:
 
@@ -25,12 +25,12 @@ I'm a **DevOps Engineer** with expertise in:
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-sarode17&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sarode17&layout=compact&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-devops17&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devops17&layout=compact&theme=radical)
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-sarode17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-devops17)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 
 ## 📝 Latest Blog Posts
@@ -48,4 +48,4 @@ I'm a **DevOps Engineer** with expertise in:
 
 ---
 
-⭐️ From [Vaibahv Sarode](https://github.com/vaibhav-sarode17)
+⭐️ From [Vaibahv Sarode](https://github.com/vaibhav-devops17)
