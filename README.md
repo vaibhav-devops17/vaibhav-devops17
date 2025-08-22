@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vaibhav Sarode
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhav-sarode17)
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhav-devops17)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=480&lines=DevOps+Engineer+%7C+Always+learning;Always+deploying+%7C+Always+improving;Automation+is+my+art;Infrastructure+that+scales+%26+heals)
 
 I'm a **DevOps Engineer** passionate about building scalable infrastructure, automating workflows, and deploying secure, resilient systems. Whether it's CI/CD pipelines, container orchestration, or Infrastructure as Code, I love turning complex problems into elegant solutions.
@@ -38,10 +38,10 @@ I'm a **DevOps Engineer** passionate about building scalable infrastructure, aut
 
 ## 📂 Featured Projects  
 
-- [Kanban To-Do Project](https://github.com/vaibhav-sarode17/kanban-todo-project)  
+- [Kanban To-Do Project](https://github.com/vaibhav-devops17/kanban-todo-project)  
   🗂 A full-stack Kanban board with drag-and-drop functionality. Built for productivity geeks with a clean UI and local state persistence.
 
-- [Online Bookstore](https://github.com/vaibhav-sarode17/onlinebookstore)  
+- [Online Bookstore](https://github.com/vaibhav-devops17/onlinebookstore)  
   📚 A secure and scalable e-commerce site for book lovers featuring search, cart, checkout, and authentication modules.
 
 ---
@@ -79,24 +79,24 @@ I'm a **DevOps Engineer** passionate about building scalable infrastructure, aut
 ## 🐍 GitHub Contribution Snake  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhav-sarode17/vaibhav-devops17/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhav-sarode17/vaibhav-devops17/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/vaibhav-sarode17/vaibhav-devops17/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhav-devops17/vaibhav-devops17/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhav-devops17/vaibhav-devops17/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/vaibhav-devops17/vaibhav-devops17/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-sarode17&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sarode17&layout=compact&theme=radical)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-devops17&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devops17&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-sarode17)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-devops17)  
 
 ---
 
-⭐️ From [Vaibhav Sarode](https://github.com/vaibhav-sarode17)
+⭐️ From [Vaibhav Sarode](https://github.com/vaibhav-devops17)
