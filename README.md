@@ -39,55 +39,85 @@ current_focus:
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-<table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+### 💻 **My Technology Arsenal**
+
+<table border="0" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
-    <td align="center" width="200">
-        <h3>☁️ Cloud & Infrastructure</h3>
-        <img src="https://skillicons.dev/icons?i=aws,linux,terraform" alt="Cloud Skills"/><br>
+    <td align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; min-width: 250px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50" height="50"><br>
+        <h3 style="color: white; margin: 10px 0;">☁️ Cloud & Infrastructure</h3>
+        <img src="https://skillicons.dev/icons?i=aws,linux,terraform&theme=dark" alt="Cloud Skills" style="margin: 10px 0;"/><br>
         <img src="https://img.shields.io/badge/Pivotal_Cloud_Foundry-003B49?style=for-the-badge&logo=pivotal&logoColor=white" alt="PCF"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/AWS_Certified-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
     </td>
-    <td align="center" width="200">
-        <h3>🚀 DevOps & Automation</h3>
-        <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,ansible" alt="DevOps Skills"/>
+    <td align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; min-width: 250px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50"><br>
+        <h3 style="color: white; margin: 10px 0;">🚀 DevOps & Automation</h3>
+        <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,ansible&theme=dark" alt="DevOps Skills" style="margin: 10px 0;"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/CI%2FCD_Expert-FF6B6B?style=flat-square&logo=gitlab&logoColor=white" alt="CI/CD Badge"/>
     </td>
 </tr>
 <tr>
-    <td align="center" width="200">
-        <h3>📊 Monitoring & Observability</h3>
-        <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring Skills"/>
+    <td align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; min-width: 250px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50" height="50"><br>
+        <h3 style="color: white; margin: 10px 0;">📊 Monitoring & Observability</h3>
+        <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Monitoring Skills" style="margin: 10px 0;"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Monitoring_Pro-4CAF50?style=flat-square&logo=grafana&logoColor=white" alt="Monitoring Badge"/>
     </td>
-    <td align="center" width="200">
-        <h3>🔧 Development Tools</h3>
-        <img src="https://skillicons.dev/icons?i=git,github" alt="Dev Tools"/><br>
+    <td align="center" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; min-width: 250px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50"><br>
+        <h3 style="color: white; margin: 10px 0;">🔧 Development Tools</h3>
+        <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Dev Tools" style="margin: 10px 0;"/><br>
         <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
-    </td>
-</tr>
-<tr>
-    <td align="center" colspan="2">
-        <h3>🔒 DevSecOps & Security Tools</h3>
-        <table>
-        <tr>
-        <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"><br>
-        <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-        </td>
-        <td align="center">
-        <img src="https://github.com/aquasecurity/trivy/raw/main/docs/imgs/logo.svg" alt="Trivy" width="40" height="40"><br>
-        <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy"/>
-        </td>
-        <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snyk/snyk-original.svg" alt="Snyk" width="40" height="40"><br>
-        <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk"/>
-        </td>
-        <td align="center">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/owasp.svg" alt="OWASP" width="40" height="40"><br>
-        <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-        </td>
-        </tr>
-        </table>
+        <br>
+        <img src="https://img.shields.io/badge/Version_Control-181717?style=flat-square&logo=github&logoColor=white" alt="Git Badge"/>
     </td>
 </tr>
 </table>
+
+<br>
+
+### 🔒 **DevSecOps & Security Arsenal**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80">
+
+<table border="0" style="margin: 20px 0;">
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+<img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="SonarQube" width="70" height="70" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"><br><br>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+<br><br>
+<span style="color: white; font-size: 12px;">Code Quality Analysis</span>
+</td>
+<td align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/trivy/icon/color/trivy-icon-color.svg" alt="Trivy" width="70" height="70" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"><br><br>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy"/>
+<br><br>
+<span style="color: white; font-size: 12px;">Vulnerability Scanner</span>
+</td>
+<td align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+<img src="https://avatars.githubusercontent.com/u/12959162?s=200&v=4" alt="Snyk" width="70" height="70" style="border-radius: 15px; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"><br><br>
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk"/>
+<br><br>
+<span style="color: white; font-size: 12px;">Security Testing</span>
+</td>
+<td align="center" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+<img src="https://owasp.org/www-policy/operational/branding/img/owasp_icon_white_sm.png" alt="OWASP" width="70" height="70" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"><br><br>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+<br><br>
+<span style="color: white; font-size: 12px;">Security Standards</span>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
 
 <div align="center">
